@@ -49,4 +49,4 @@ b) Complementos y modificadores en el sintagma nominal:
 - construcción: Núcleo del sintagma nominal.
 - de la biblioteca: Modificador del sustantivo "construcción".
 
-Espero que esto sea de ayuda. Si tienes alguna otra pregunta, no dudes en hacerla.
+
